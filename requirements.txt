@@ -1,2 +1,4 @@
-polars
+polars[all]
 jupyterlab
+numpy
+pandas
