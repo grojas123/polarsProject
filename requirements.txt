@@ -2,3 +2,4 @@ polars[all]
 jupyterlab
 numpy
 pandas
+matplotlib
